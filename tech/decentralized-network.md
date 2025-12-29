@@ -1,23 +1,23 @@
-# 📡 Technology: The Sovereign Stack
+# 📡 Teknoloji: Egemen Yığın (The Sovereign Stack)
 
-## Abstract
-A nation that does not control its own data does not control its own destiny. This module defines the "Hardware and Software" independence of the Union.
+## Özet
+Kendi verisini kontrol etmeyen bir ulus, kendi kaderini kontrol edemez. Bu modül, Birliğin "Donanım ve Yazılım" bağımsızlığını tanımlar.
 
-## The 3-Layer Defense
+## 3 Katmanlı Savunma
 
-### 1. The Physical Layer: "Iron-Dome" Connectivity
-*   **Mesh Networks**: Community-owned ISP nodes. If the main internet cable is cut, the neighborhood mesh keeps talking.
-*   **Satellite Uplink**: Leveraging Low Earth Orbit (LEO) satellites for independent global routing.
-*   **Halal Silicon**: Investing in Open Source Hardware (RISC-V) to ensure our verify the chip-level security (no backdoors).
+### 1. Fiziksel Katman: "Demir Kubbe" Bağlantısı
+*   **Mesh Ağları**: Topluluk sahipli ISP düğümleri. Ana internet kablosu kesilse bile, mahalle ağı konuşmaya devam eder.
+*   **Uydu Bağlantısı**: Bağımsız küresel yönlendirme için Alçak Dünya Yörüngesi (LEO) uydularından yararlanma.
+*   **Helal Silikon**: Çip düzeyinde güvenliği (arka kapı yok) doğrulamak için Açık Kaynak Donanıma (RISC-V) yatırım yapmak.
 
-### 2. The Data Layer: "The Vault"
-*   **Decentralized Storage (IPFS/Filecoin)**: No central server to bomb or sanction. Data is sharded and replicated across millions of nodes in the Ummah.
-*   **Sovereign Cloud**: A federation of national data centers running open-source cloud stacks (OpenStack/Kubernetes), keeping data within our legal jurisdictions.
+### 2. Veri Katmanı: "Kasa"
+*   **Merkeziyetsiz Depolama (IPFS/Filecoin)**: Bombalanacak veya yaptırım uygulanacak merkezi bir sunucu yok. Veri, Ümmetteki milyonlarca düğüme parçalanır ve kopyalanır.
+*   **Egemen Bulut**: Verileri yasal yetki alanlarımızda tutan, açık kaynaklı bulut yığınlarını (OpenStack/Kubernetes) çalıştıran ulusal veri merkezleri federasyonu.
 
-### 3. The Application Layer: "The Halal Internet"
-*   **Social Algorithms**: Social media that amplifies *truth* and *knowledge* rather than outrage.
-*   **Identity**: Self-Sovereign Identity (DID). You own your passport, not a government database.
+### 3. Uygulama Katmanı: "Helal İnternet"
+*   **Sosyal Algoritmalar**: Öfke yerine *hakikati* ve *bilgiyi* öne çıkaran sosyal medya.
+*   **Kimlik**: Kendi Kendine Egemen Kimlik (Self-Sovereign Identity - DID). Pasaportunuza devlet veritabanı değil, siz sahipsiniz.
 
-## Strategic Projects
-*   **Crescent-OS**: A hardened, privacy-focused Linux distribution for government and military use.
-*   **Ummah-Search**: A search engine index that prioritizes ethical and verified content.
+## Stratejik Projeler
+*   **Hilal-OS (Crescent-OS)**: Devlet ve askeri kullanım için güçlendirilmiş, gizlilik odaklı bir Linux dağıtımı.
+*   **Ümmet-Arama (Ummah-Search)**: Etik ve doğrulanmış içeriği önceliklendiren bir arama motoru dizini.

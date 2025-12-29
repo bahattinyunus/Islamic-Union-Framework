@@ -1,26 +1,26 @@
-# 💰 Economy: The Common Market & Digital Dinar
+# 💰 Ekonomi: Ortak Pazar ve Dijital Dinar
 
-## Abstract
-Economic dependence is the root of political weakness. This module outlines the framework for a self-sufficient, gold-standard economic zone.
+## Özet
+Ekonomik bağımlılık, siyasi zayıflığın köküdür. Bu modül, kendi kendine yeten, altın standardına dayalı bir ekonomik bölge için çerçeveyi çizer.
 
-## The Pillars
+## Sütunlar
 
-### 1. The Digital Dinar (Gold-Backed)
-*   **Concept**: A stablecoin where 1 Token = 1 Gram of Gold (physically vaulted).
-*   **Advantage**: Immune to inflation and manipulation by foreign central banks.
-*   **Usage**: Cross-border trade settlement. (e.g., Turkey pays Malaysia for electronics in Digital Dinar, not USD).
+### 1. Dijital Dinar (Altına Dayalı)
+*   **Kavram**: 1 Token = 1 Gram Altın (Fiziksel kasada saklanan) olan bir stabil kripto para.
+*   **Avantaj**: Enflasyona ve yabancı merkez bankalarının manipülasyonuna karşı bağışık.
+*   **Kullanım**: Sınır ötesi ticaret ödemeleri. (Örn: Türkiye, Malezya'ya elektronik için USD ile değil, Dijital Dinar ile ödeme yapar).
 
-### 2. The Zero-Tariff Protocol
-A standardized API for customs and logistics that allows verified "Union Goods" to pass borders digitally.
-*   **Supply Chain Tracking**: Using Blockchain to verify origin (Halal certification, Fair Trade).
-*   **Smart Taxes**: Automated simplistic taxation, replacing complex bureaucratic tariffs.
+### 2. Sıfır Gümrük Protokolü
+Doğrulanmış "Birlik Mallarının" sınırları dijital olarak geçmesini sağlayan, gümrük ve lojistik için standartlaştırılmış bir API.
+*   **Tedarik Zinciri Takibi**: Menşei doğrulamak için Blok Zinciri kullanımı (Helal sertifikası, Adil Ticaret).
+*   **Akıllı Vergiler**: Karmaşık bürokratik tarifelerin yerini alan, otomatik ve basitleştirilmiş vergilendirme.
 
-### 3. The Barter Exchange Engine
-Direct value-for-value exchange engine for times of crisis or sanction.
-*   *Scenario*: Country A needs Wheat, Country B needs Energy.
-*   The engine matches them at market rates without needing an intermediary currency.
+### 3. Takas (Barter) Motoru
+Kriz veya yaptırım zamanları için doğrudan değer-karşılığı-değer takas motoru.
+*   *Senaryo*: A Ülkesinin Buğdaya, B Ülkesinin Enerjiye ihtiyacı var.
+*   Motor, aracı bir para birimine ihtiyaç duymadan onları piyasa oranlarında eşleştirir.
 
-## Implementation Steps
-1.  **Ledger Design**: Selecting the right blockchain (L2 on Ethereum, Cosmos, or a custom chain).
-2.  **Vault Audit**: Mechanism for proving gold reserves exist (Proof of Asset).
-3.  **Wallet**: A secure, mobile-first wallet for every citizen.
+## Uygulama Adımları
+1.  **Defter Tasarımı**: Doğru blok zincirini seçmek (Ethereum L2, Cosmos veya özel bir zincir).
+2.  **Kasa Denetimi**: Altın rezervlerinin var olduğunu kanıtlama mekanizması (Varlık Kanıtı / Proof of Asset).
+3.  **Cüzdan**: Her vatandaş için güvenli, mobil öncelikli bir cüzdan.

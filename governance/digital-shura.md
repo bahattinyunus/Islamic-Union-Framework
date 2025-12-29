@@ -1,27 +1,27 @@
-# ⚖️ Governance: Digital Shura (Shura 2.0)
+# ⚖️ Yönetişim: Dijital Şura (Şura 2.0)
 
-## Abstract
-Traditional decision-making in the Islamic world often suffers from improved latency and lack of transparency. **Digital Shura** is a proposal to use cryptographic proof and consensus algorithms to modernize the concept of "Consultation" (Shura).
+## Özet
+İslam dünyasındaki geleneksel karar alma süreçleri genellikle yavaşlıktan ve şeffaflık eksikliğinden muzdariptir. **Dijital Şura**, "İstişare" (Şura) kavramını modernize etmek için kriptografik kanıt ve mutabakat algoritmalarını kullanma teklifidir.
 
-## Core Principles
+## Temel İlkeler
 
-### 1. Fluid Democracy (Delegated Voting)
-Not every citizen can be an expert on everything. We propose a **Liquid Democracy** model where:
-*   Users can vote directly on issues.
-*   OR they can delegate their vote to a trusted expert (e.g., an economist for trade deals, a scholar for ethical issues).
-*   Delegation can be withdrawn instantly.
+### 1. Akışkan Demokrasi (Delegasyonlu Oylama)
+Her vatandaş her konuda uzman olamaz. Şöyle bir **Akışkan Demokrasi** modeli öneriyoruz:
+*   Kullanıcılar konulara doğrudan oy verebilir.
+*   VEYA oylarını güvendikleri bir uzmana devredebilirler (örneğin, ticaret anlaşmaları için bir ekonomiste, etik konular için bir alime).
+*   Delegasyon anında geri çekilebilir.
 
-### 2. The Council System
-*   **Local Councils (Mahalle)**: Handle local issues.
-*   **City Councils**: Aggregated votes from locals.
-*   **The High Council**: Representatives from all member states/communities.
+### 2. Meclis Sistemi
+*   **Yerel Meclisler (Mahalle)**: Yerel sorunları ele alır.
+*   **Şehir Meclisleri**: Yerelden gelen oyların toplandığı yer.
+*   **Yüksek Konsey**: Tüm üye devletlerden/topluluklardan temsilciler.
 
-### 3. Smart Treaties
-Agreements between parties are not just paper; they are **Smart Contracts**.
-*   *Example*: "If Country A invests X amount in Country B, then 5% of the revenue is automatically routed back to Country A's treasury wallet."
-*   This removes the need for "trust" and relies on "truth" (code).
+### 3. Akıllı Anlaşmalar
+Taraflar arasındaki anlaşmalar sadece kağıt üzerinde değildir; bunlar **Akıllı Sözleşmelerdir**.
+*   *Örnek*: "Eğer A Ülkesi, B Ülkesine X miktar yatırım yaparsa, gelirin %5'i otomatik olarak A Ülkesinin hazine cüzdanına yönlendirilir."
+*   Bu, "güvene" olan ihtiyacı ortadan kaldırır ve "hakikate" (koda) dayanır.
 
-## Roadmap to Implementation
-1.  Define the `VotingToken` standard (ERC-20/721 variant).
-2.  Build a prototype dApp for a small community organization.
-3.  Draft the "Constitution of the Digital Union".
+## Uygulama Yol Haritası
+1.  `VotingToken` standardını tanımla (ERC-20/721 varyantı).
+2.  Küçük bir topluluk organizasyonu için prototip bir dApp (Merkeziyetsiz Uygulama) inşa et.
+3.  "Dijital Birliğin Anayasası" taslağını hazırla.

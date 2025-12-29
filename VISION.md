@@ -1,29 +1,29 @@
-# 🔭 VISION: The Architecture of Unity
+# 🔭 VİZYON: Birliğin Mimarisi
 
-## The Problem: Fragmentation & Dependency
-The Islamic world today possesses massive resources, a young population, and a strategic location. However, it suffers from:
-1.  **Economic Fragmentation**: Trade barriers and reliance on foreign currencies (USD/EUR).
-2.  **Political Disconnect**: A lack of unified mechanisms for rapid decision-making.
-3.  **Technological Vassalage**: Dependence on hardware and software controlled by external powers.
+## Sorun: Parçalanmışlık ve Bağımlılık
+Bugün İslam dünyası muazzam kaynaklara, genç bir nüfusa ve stratejik bir konuma sahip. Ancak şu sorunlardan muzdarip:
+1.  **Ekonomik Parçalanmışlık**: Ticaret engelleri ve yabancı para birimlerine (USD/EUR) bağımlılık.
+2.  **Siyasi Kopukluk**: Hızlı karar alma mekanizmalarının eksikliği.
+3.  **Teknolojik Vesayet**: Dış güçler tarafından kontrol edilen donanım ve yazılımlara bağımlılık.
 
-## The Solution: A Digital-First Union
-We cannot wait for political borders to dissolve before we act. We can dissolve **digital borders** today.
+## Çözüm: Dijital Öncelikli Birlik
+Harekete geçmek için siyasi sınırların kalkmasını bekleyemeyiz. **Dijital sınırları** bugün kaldırabiliriz.
 
-The **Islamic-Union-Framework** proposes that the path to unity lies in **infrastructure**. If we build the rails (trade, communication, law), the trains (cooperation) will inevitably follow.
+**Islamic-Union-Framework**, birliğe giden yolun **altyapıdan** geçtiğini savunur. Eğer rayları (ticaret, iletişim, hukuk) biz döşersek, trenler (işbirliği) kaçınılmaz olarak gelecektir.
 
-### 1. Validating the "Ummah" as a Digital Entity
-We aim to create a digital identity system where a citizen of Jakarta and a citizen of Istanbul can transact, converse, and collaborate without friction.
+### 1. "Ümmet"in Dijital Bir Varlık Olarak Doğrulanması
+Cakarta'daki bir vatandaş ile İstanbul'daki bir vatandaşın sürtünmesizce ticaret yapabileceği, konuşabileceği ve işbirliği yapabileceği bir dijital kimlik sistemi oluşturmayı amaçlıyoruz.
 
-### 2. The "Gold Standard" Economy
-We reject the inflationary debt-based monetary system. Our vision includes a **Gold-Backed Digital Currency** (The Modern Dinar) that facilitates trade settlement between nations, bypassing SWIFT and sanctions.
+### 2. "Altın Standardı" Ekonomisi
+Enflasyonist, borca dayalı para sistemini reddediyoruz. Vizyonumuz, uluslararasında ticaretin ödenmesini sağlayan, SWIFT'i ve yaptırımları bypass eden **Altına Dayalı Dijital Para Birimi** (Modern Dinar) içerir.
 
-### 3. Asymmetric Technological Defense
-We must develop "Anti-Fragile" networks. If the global internet is partitioned, our nodes must continue to talk. This requires:
-*   **Satellite & Mesh Networks**
-*   **Sovereign Cloud Infrastructure**
-*   **Open Source Hardware**
+### 3. Asimetrik Teknolojik Savunma
+"Kırılgan Olmayan" ağlar geliştirmeliyiz. Eğer küresel internet bölünürse, düğümlerimiz (node'larımız) konuşmaya devam etmelidir. Bu şunları gerektirir:
+*   **Uydu ve Mesh Ağları**
+*   **Egemen Bulut Altyapısı**
+*   **Açık Kaynak Donanım**
 
-## The Endgame
-A borderless, prosperous, and scientifically advanced bloc that serves as a pillar of justice in the multipolar world.
+## Nihai Hedef (Endgame)
+Çok kutuplu dünyada adaletin bir sütunu olarak hizmet veren; sınırsız, müreffeh ve bilimsel olarak ilerlemiş bir blok.
 
-> *"The believers, in their mutual kindness, compassion, and sympathy, are just like one body..."*
+> *"Müminler, birbirlerini sevmede, birbirlerine merhamet ve şefkat göstermede, tıpkı bir bedenin organları gibidirler..."*

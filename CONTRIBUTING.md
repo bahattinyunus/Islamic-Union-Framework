@@ -1,32 +1,32 @@
-# 🛠️ Contributing: Jihad al-Bina (The Struggle to Build)
+# 🛠️ Katkıda Bulunma: İnşa Cihadı (Jihad al-Bina)
 
-## Welcome, Architect.
+## Hoş Geldin, Mimar.
 
-This is not just a GitHub repository. This is a digital construction site for the future of 1.8 billion people.
+Burası sadece bir GitHub deposu değil. Burası 1,8 milyar insanın geleceği için bir dijital şantiyedir.
 
-> *"The most beloved of people to Allah are those who are most beneficial to people."*
+> *"İnsanların Allah katında en sevimlisi, insanlara en faydalı olanıdır."*
 
-## How to Contribute
+## Nasıl Katkıda Bulunursunuz?
 
-### 1. The Code (Engineering)
-Note: We are currently in the **Architectural Phase**.
-*   **RFCs (Request for Comments)**: Read `governance/`, `economy/`, and `tech/`. Submit Pull Requests with improvements to the logic.
-*   **Prototypes**: If you can build a small MVP of the "Digital Dinar" or "Shura Voting App", create a directory in `prototypes/` and push it.
+### 1. Kod (Mühendislik)
+Not: Şu anda **Mimari Fazdayız**.
+*   **RFC'ler (Yorum Talepleri)**: `governance/`, `economy/` ve `tech/` dizinlerini okuyun. Mantığı geliştiren Pull Request'ler (Değişiklik İstekleri) gönderin.
+*   **Prototip**: Eğer "Dijital Dinar" veya "Şura Oylama Uygulaması"nın küçük bir MVP'sini (Minimum Çalışır Ürün) yapabiliyorsanız, `prototypes/` içinde bir dizin oluşturun ve gönderin.
 
-### 2. The Word (Translation & Thought)
-*   **Translate**: This framework must be accessible in Arabic, Turkish, Persian, Urdu, Malay, and Swahili.
-*   **Expand**: Add detailed research papers to `docs/`.
+### 2. Söz (Çeviri ve Düşünce)
+*   **Çeviri**: Bu çerçeve Arapça, Türkçe, Farsça, Urduca, Malayca ve Svahilice dillerinde erişilebilir olmalıdır.
+*   **Genişletme**: `docs/` dizinine detaylı araştırma makaleleri ekleyin.
 
-## Rules of Engagement / Code of Conduct
+## Katılım Kuralları / Davranış Kuralları
 
-1.  **Niyat (Intention)**: Work for the benefit of the whole, not for personal ego or fame.
-2.  **Adab (Etiquette)**: Disagree politely. See [Unity Protocol](docs/unity-protocol.md).
-3.  **Excellence (Ihsan)**: Do not write "semiprecious" code. Write code that is robust, secure, and beautiful.
+1.  **Niyet**: Kişisel ego veya şöhret için değil, bütünün faydası için çalışın.
+2.  **Edep**: Kibarca anlaşamayın. Bkz: [Birlik Protokolü](docs/unity-protocol.md).
+3.  **İhsan (Mükemmellik)**: "Yarım yamalak" kod yazmayın. Sağlam, güvenli ve güzel kod yazın.
 
-## Getting Started
-1.  Fork the repo.
-2.  Create a branch (`feature/amazing-idea`).
-3.  Commit your changes.
-4.  Open a Pull Request.
+## Başlarken
+1.  Repoyu Forklayın (Çatallayın).
+2.  Bir branch (dal) oluşturun (`ozellik/harika-fikir`).
+3.  Değişikliklerinizi Commit edin.
+4.  Bir Pull Request (Çekme İsteği) açın.
 
-*Bismillah. Let's build.*
+*Bismillah. İnşa edelim.*

@@ -1,46 +1,46 @@
-# 🤝 The Unity Protocol: Solving the Ideological Divide
+# 🤝 Birlik Protokolü: İdeolojik Ayrılıkları Çözmek
 
-> *"Hold firmly to the rope of Allah all together and do not become divided."* (Al-Imran, 103)
+> *"Hep birlikte Allah'ın ipine sımsıkı sarılın ve parçalanıp bölünmeyin."* (Âl-i İmrân, 103)
 
-## The Core Problem: The Historical Trap
-For centuries, the Islamic world has trapped itself in historical theological debates (Shia vs. Sunni, Salafi vs. Sufi, etc.). While these discussions have their place in the *Madrasa*, they have become poison in the *State*.
+## Temel Sorun: Tarihsel Tuzak
+İslam dünyası yüzyıllardır kendini tarihsel teolojik tartışmalara (Şii-Sünni, Selefi-Sufi vb.) hapsetmiştir. Bu tartışmaların *Medrese*'de bir yeri olsa da, *Devlet* yönetimine karıştığında zehirli hale gelmektedirler.
 
-When we argue about history, **someone else writes our future.**
+Biz tarihi tartışırken, **geleceğimizi başkaları yazıyor.**
 
-## The Solution: Functional Unity (The Clean Room)
-This framework proposes a **"Functional Unity"** model. This is not a "Theological Merger" (we are not trying to create a new sect). It is a **Strategic Alliance**.
+## Çözüm: Fonksiyonel Birlik (Temiz Oda)
+Bu çerçeve, bir **"Fonksiyonel Birlik"** modeli önerir. Bu bir "Teolojik Birleşme" değildir (yeni bir mezhep yaratmaya çalışmıyoruz). Bu bir **Stratejik İttifak**tır.
 
-### 1. The Principle of "The Common Denominator" (Asgari Müşterekler)
-We focus on the 95% we agree on, not the 5% we dispute.
-*   **The God**: One.
-*   **The Prophet**: One.
-*   **The Book**: One.
-*   **The Qibla**: One.
-*   **The Enemy**: The same (Imperialism, Poverty, Ignorance).
-*   **The Goal**: The same (Justice, Dignity, Prosperity).
+### 1. "Asgari Müşterekler" İlkesi
+Tartıştığımız %5'e değil, anlaştığımız %95'e odaklanıyoruz.
+*   **Allah**: Bir.
+*   **Peygamber**: Bir.
+*   **Kitap**: Bir.
+*   **Kıble**: Bir.
+*   **Düşman**: Aynı (Emperyalizm, Yoksulluk, Cehalet).
+*   **Hedef**: Aynı (Adalet, Onur, Refah).
 
-### 2. The Separation of "Church" and "Union"
-We propose a radical layer of abstraction:
-*   **Theological Sphere**: Remains in local communities/institutions. You are free to practice your Madhhab.
-*   **Union Sphere**: Strictly **Schools-Neutral**. The Union speaks the language of Trade, Defense, and Science.
-    *   *Example*: An engineer in Tehran and an engineer in Riyadh work on the same "Open Source Satellite" project. Their sect is irrelevant to the code they write. The code works or it doesn't.
+### 2. "Cami" ve "Birlik" Ayrımı
+Radikal bir soyutlama katmanı öneriyoruz:
+*   **Teolojik Alan**: Yerel topluluklarda/kurumlarda kalır. Mezhebinizi yaşamakta özgürsünüz.
+*   **Birlik Alanı**: Kesinlikle **Mezhep-Nötr**dür. Birlik; Ticaret, Savunma ve Bilim dilini konuşur.
+    *   *Örnek*: Tahran'daki bir mühendis ile Riyad'daki bir mühendis aynı "Açık Kaynak Uydu" projesinde çalışır. Yazdıkları kod için mezhepleri önemsizdir. Kod ya çalışır ya da çalışmaz.
 
-### 3. The "Etiquette of Disagreement" (Adab al-Ikhtilaf)
-We institutionalize the right to disagree respectfully.
-*   **The Red Line**: Takfir (declaring another Muslim an apostate) is constitutionally banned within the Framework's political layer.
-*   **The Mechanism**: Disputes are resolved via the **Digital Shura**, which votes on *policy*, not *theology*.
+### 3. "İhtilaf Ahlakı" (Adab-ı İhtilaf)
+Saygılı bir şekilde anlaşamama hakkını kurumsallaştırıyoruz.
+*   **Kırmızı Çizgi**: Tekfir (başka bir Müslümanı dinden çıkmakla suçlamak), Çerçeve'nin siyasi katmanında anayasal olarak yasaklanmıştır.
+*   **Mekanizma**: Anlaşmazlıklar, *teolojiyi* değil *politikayı* oylayan **Dijital Şura** aracılığıyla çözülür.
 
-## Practical Implementation: The Intellectual Arena
-How do we solve this in the "Idea Market"?
+## Pratik Uygulama: Entelektüel Arena
+Bunu "Fikir Pazarı"nda nasıl çözeriz?
 
-### A. The "Open Source" Fatwa System
-Instead of one central authority issuing decrees, legal opinions are treated like "Versions" in software.
-*   Users can "Subscribe" to their preferred school of thought (e.g., `Sharia-Lib-Hanafi-v2.0` or `Sharia-Lib-Jafari-v1.4`).
-*   The System supports *polymorphism*. The economic engine can handle different contract types (e.g., Sukuk differences) simultaneously without breaking the network.
+### A. "Açık Kaynak" Fetva Sistemi
+Hüküm veren tek bir merkezi otorite yerine, hukuki görüşler yazılımdaki "Versiyonlar" gibi ele alınır.
+*   Kullanıcılar tercih ettikleri ekole "Abone" olabilirler (örneğin, `Seriat-Kutuphanesi-Hanafi-v2.0` veya `Seriat-Kutuphanesi-Caferi-v1.4`).
+*   Sistem *polimorfizmi* (çok biçimliliği) destekler. Ekonomik motor, farklı sözleşme türlerini (örneğin Sukuk farklılıkları) ağı bozmadan aynı anda işleyebilir.
 
-### B. Shared Narrative: The Future > The Past
-We shift the collective focus from "Who was right 1400 years ago?" to "How do we survive the next 100 years?"
-*   Building a Supercomputer together requires physics, not fiqh.
-*   Launching a currency requires math, not history.
+### B. Ortak Anlatı: Gelecek > Geçmiş
+Kolektif odağı "1400 yıl önce kim haklıydı?" sorusundan "Önümüzdeki 100 yıl boyunca nasıl hayatta kalacağız?" sorusuna kaydırıyoruz.
+*   Birlikte bir Süper Bilgisayar inşa etmek fıkıh değil, fizik gerektirir.
+*   Bir para birimi başlatmak tarih değil, matematik gerektirir.
 
-**The Union is built on WORK, not separate identities.**
+**Birlik, ayrı kimlikler üzerine değil, İŞ üzerine kuruludur.**
